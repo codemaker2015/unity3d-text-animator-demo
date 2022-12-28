@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Text Animator/Example/00 - Welcome.unity
+    guid: 6eaf322d703d50146afecde586026f57
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 1A - Effects.unity
+    guid: 33f73b8875f94f64b867105f5c7d4747
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 1B - Stacks.unity
+    guid: 82a6944f7c7c3fa47856f534f7482122
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 1C - Attributes.unity
+    guid: 85ee4ca1f3a508347b883d20385a5eac
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 1D - Presets.unity
+    guid: 585d90bd4d87ee5498dddb354b211cd5
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 2 - Events.unity
+    guid: 4ce09929bf78a444788036d3a2884dd9
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 3 - Actions.unity
+    guid: ba92474cac6c572459cd8fb75148ea94
+  - enabled: 1
+    path: Assets/Text Animator/Example/Example 4 - TextOnEnable.unity
+    guid: d1cf7179fb110fa4fa0e6793ec6c3be8
+  - enabled: 1
+    path: Assets/Text Animator/Example/Extra 1 - Testing Texts.unity
+    guid: 8a739a68962d0224da3c3f8585c34cb3
+  - enabled: 1
+    path: Assets/Text Animator/Example/Extra 2 - Testing Effects.unity
+    guid: ddbbb90dae04d6142bc21831a714c928
+  - enabled: 1
+    path: Assets/Text Animator Extras/Typewriter Sound/Typewriter Sound Scene.unity
+    guid: 8a9fd9bab55fd034698e2721471424d4
+  m_configObjects: {}
